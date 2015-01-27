@@ -1,3 +1,4 @@
+// this project is a work in progress still....
 var stats = require('./lib/statistics2'),
     z = stats.pnormaldist(1 - (1 - 0.975) / 2),
     normal = stats.normaldist(0.27);
