@@ -1,0 +1,24 @@
+{
+  "name": "statistics2",
+  "version": "1.0.0",
+  "description": "Statistics2 is a module that provides normal, Chi-square, t- and F- probability distributions for JavaScript. It is a fork/continuation of Shin-ichiro Hara's original code in Ruby.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhardin/node-statistics2.git"
+  },
+  "keywords": [
+    "statistics",
+    "probability",
+    "distribution"
+  ],
+  "author": "Robert Hardin <rob@roberthardin.net> (http://www.roberthardin.net)",
+  "license": "LGPL",
+  "bugs": {
+    "url": "https://github.com/rhardin/node-statistics2/issues"
+  },
+  "homepage": "https://github.com/rhardin/node-statistics2"
+}
