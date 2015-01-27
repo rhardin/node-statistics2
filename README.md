@@ -18,7 +18,7 @@ console.log(stats.normaldist(0.27));
 1. Create a new Pull Request
 
 ## License
-See (this file)[//github.com/rhardin/node-statistics2/blob/master/LICENSE].
+See [this file](//github.com/rhardin/node-statistics2/blob/master/LICENSE).
 
 ## Authors
 JavaScript: [Robert Hardin](rob@roberthardin.net)
