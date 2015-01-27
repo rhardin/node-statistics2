@@ -1,1 +1,1 @@
-module.exports = require('./lib/statistics');
+module.exports = require('./lib/statistics2');
