@@ -1,6 +1,6 @@
 {
   "name": "statistics2",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Statistics2 is a module that provides normal, Chi-square, t- and F- probability distributions for JavaScript. It is a fork/continuation of Shin-ichiro Hara's original code in Ruby.",
   "main": "index.js",
   "scripts": {
