@@ -1,6 +1,10 @@
 # node-statistics2
 Statistics2 is a module that provides normal, Chi-square, t- and F- probability distributions for JavaScript. It is a fork/continuation of Shin-ichiro Hara's original code in Ruby.
 
+[![Version](https://img.shields.io/npm/v/statistics2)](https://www.npmjs.com/package/statistics2)
+[![Monthly Downloads from NPM](https://img.shields.io/npm/dm/statistics2)](https://www.npmjs.com/package/statistics2)
+[![License](https://img.shields.io/npm/l/statistics2.svg)](https://github.com/rhardin/node-statistics2/blob/master/package.json)
+
 ## Get It
 `node install statistics2`
 
